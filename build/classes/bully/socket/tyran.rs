@@ -1,0 +1,16 @@
+tyran$ReceiveIsAliveThree
+tyran
+tyran$ReceiveElectionOne
+tyran$Client
+tyran$ReceiveIsAliveOne
+tyran$ReceiveCoordinator
+tyran$CoordinatorTimeout
+tyran$ReceiveReplyElectionTwo
+tyran$ReceiveElectionTwo
+tyran$ReceiveIsAliveFour
+tyran$ReceiveReplyElectionFour
+tyran$ReceiveReplyElectionOne
+tyran$ReceiveIsAliveTwo
+tyran$ReceiveElectionThree
+tyran$ReceiveElectionFour
+tyran$ReceiveReplyElectionThree
